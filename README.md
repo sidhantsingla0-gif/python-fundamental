@@ -40,4 +40,4 @@ pip install -r requirements.txt
 ```
 
 ---
-*Maintained by [Sidhant Singla](https://github.com/sidhantsingla0-gif)*
+*Maintained by [Sidhant](https://github.com/sidhantsingla0-gif)*
